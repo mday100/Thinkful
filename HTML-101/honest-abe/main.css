@@ -1,0 +1,93 @@
+body {
+	background: url('images/abe.jpg') no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	font-family: Georgia, serif;
+	color: #000000;
+}
+
+.container {
+	background-color: rgba(255, 255, 255, 0.20);
+	margin-left: 60px;
+	padding: 50px 64px;
+	width: 560px;
+	min-height: 800px;
+}
+
+h1 {
+	font-weight: 800;
+	font-size: 32px;
+	margin-bottom: 8px;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+.personal-statement {
+	margin: 24px 0;
+}
+
+.personal-statement p {
+	line-height: 1.3;
+	margin: 16px 0;
+}
+
+.lists {
+	margin-bottom: 48px;
+	overflow: hidden;
+}
+
+.list-box {
+  float: left;
+  width: 50%;
+}
+
+.list-box h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.list-box ul {
+  padding-left: 18px;
+  list-style: disc outside none;
+}
+
+.list-box ul li {
+  padding-left: 3px;
+  margin-bottom: 12px;
+}
+
+ul.contact {
+	list-style: none;
+}
+
+ul.contact li {
+	display: inline-block;
+}
+
+.email {
+	background: url('images/email.png') no-repeat center center;
+}
+
+.facebook {
+	background: url('images/fb.png') no-repeat center center;
+}
+
+.twitter {
+	background: url('images/twitter.png') no-repeat center center;
+}
+
+.icon {
+	display: block;
+	width: 40px;
+	height: 40px;
+	margin: 3px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}

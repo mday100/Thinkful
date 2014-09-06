@@ -1,0 +1,112 @@
+/* This is my name on top with link to the homepage */
+
+#top{
+  		margin-left: auto;
+    	margin-right: auto;
+    	text-align:center;
+  	}
+
+#top a{
+	height:100%;
+	text-align:center;
+	text-decoration: none;
+}
+
+/* These are the Button CSS Definitions */
+
+	#buttons ul{
+				list-style-type:none;
+				margin:0;
+				padding:0;
+				overflow:hidden;
+				position:relative;
+			}
+
+	#buttons a
+			{
+				display:block;
+				border:solid 2px #000;
+				background-color: #fff;
+				width:200px;
+				vertical-align: middle;
+				padding:5px;
+				font-weight:bold;
+				color:#000;
+				font-family:sans-serif;
+				text-decoration:none;
+				margin-left:5px;
+				margin-top:5px;
+				border-radius:5px;
+
+			}
+
+	#buttons li
+			{
+				display:inline-block;
+				text-align:center;
+			}
+
+	#buttons a:hover{
+				background-color: #00f;
+				color:#fff;
+			}
+
+	#buttons{
+				margin-left: auto;
+    			margin-right: auto;
+    			text-align:center;
+			}
+
+
+/* This is the Feedback Button */
+
+#feedback{
+	position:fixed;
+	right:0px;
+	top:200px;
+	width:65px;
+	height:65px;
+	background-color:#00f;
+}
+
+#feedback a{
+	display:block;
+	font-weight: bold;
+	color: #fff;
+	height:100%;
+	text-align:center;
+	transform:rotate(90deg);
+	-ms-transform:rotate(90deg); /* IE 9 */
+	-webkit-transform:rotate(90deg); /* Opera, Chrome, and Safari */
+
+}
+
+#block{
+	width:100%;
+	
+}
+
+/* This is the body of my Resume */
+
+pre{
+	font-size: large;
+	margin-top: 15%;
+	margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    width: 95%;
+	border:solid 2px #000;
+}
+
+#qualifications ul{
+	text-align: left;
+}
+
+#experience{
+	text-align: center;
+}
+
+#experience ul{
+	text-align: left;
+}
+
