@@ -1,6 +1,6 @@
 ## Paws Blog!
 
-[![Screenshot](screenshot.png)](http://pawsblog.herokuapp.com)
+[![Screenshot](pawsblog.png)](http://pawsblog.herokuapp.com)
 
 ## Summary
 
